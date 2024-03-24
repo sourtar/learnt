@@ -73,3 +73,10 @@
 216.24.189.68:42031#US
 125.229.230.180:28233#TW
 103.137.63.37:46832#TW
+allsub.king361.cf:443#TW
+meijuwang.cc:443#TW
+3k.fxxk.dedyn.io:443#TW
+cm.git.cloudns.biz:443#TW
+edgood.889876.xyz:443#TW
+a.share-dns.com:443#TW
+b.share-dns.net:443#TW
